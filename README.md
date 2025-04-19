@@ -1,7 +1,7 @@
 # E-Learning Platform
 
 <div align="center">
-  <img src="frontend/public/logo.png" alt="E-Learning Platform Logo" width="200"/>
+ 
   
   [![Next.js](https://img.shields.io/badge/Next.js-15.0.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![NestJS](https://img.shields.io/badge/NestJS-10.0.0-red?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
